@@ -1,0 +1,39 @@
+* {
+    background-color: #cdcdcd;
+}
+
+.logo {
+    color:#192841;
+    font-family: 'Lato', serif;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.bio {
+    color:#192841;
+    font-family: 'Alegreya', serif;
+    text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Lato', serif;
+    margin-top: -25%;
+
+}
+
+li {
+    margin: 0 0 3% 0;
+    font-size: 110%;
+}
+
+a:hover {
+    color:darkslategray;
+}
+
+a {
+    text-decoration: none;
+    color:#192841;
+
+}
